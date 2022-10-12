@@ -1,10 +1,9 @@
-# if you see that:
-## thanks to send me [Paypal](https://www.paypal.com) donation !
-# if you don't see that:
-## thanks to send me [Paypal](https://www.paypal.com) donation anyway !!
+## if you see that: ### thanks to send me [Paypal](https://www.paypal.com) donation !
+## if you don't see that: ### thanks to send me [Paypal](https://www.paypal.com) donation anyway !!
 
-
-<em>in this repo:</em>
+</br>
+</br>
+# <em>in this repo:</em>
 
 ## GEMs installation in this Repository:
 - `$ bundle install`
